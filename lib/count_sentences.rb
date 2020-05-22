@@ -13,7 +13,7 @@ class String
   def question?
    self.end_with?("?")
     return true
-    else return false
+    else false
     end
   end
 
