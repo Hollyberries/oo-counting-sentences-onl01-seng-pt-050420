@@ -31,3 +31,4 @@ class String
     string.empty?}
     return sentence_array.count
   end
+end
